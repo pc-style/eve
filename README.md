@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **Archived upstream fork/reference.** This repository is archived and retained only as an upstream reference; do not use it for new work.
+>
+> **Upstream:** [vercel/eve](https://github.com/vercel/eve)  
+> **Maintained pc-style delta:** **none** (the only pc-style commit is this archive notice).  
+> The upstream history and Apache License 2.0 and provenance notices are preserved. Use the upstream repository for current code, releases, issues, and security updates.
+
+---
+
 <div align="center">
   <a href="https://github.com/vercel/eve">
     <picture>
